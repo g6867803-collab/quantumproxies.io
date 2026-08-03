@@ -116,29 +116,66 @@ QuantumProxies covers **200+ countries and territories** with country, state and
 
 Complete, working projects built on QuantumProxies:
 
-- [DIY Google rank tracker in Python](https://github.com/g6867803-collab/serp-rank-tracker-python)
-- [E-commerce price monitoring to JSON/CSV](https://github.com/g6867803-collab/ecommerce-price-scraper)
-- [Web pages to RAG-ready markdown for LLMs](https://github.com/g6867803-collab/website-to-markdown-for-llms)
-- [Claude + MCP live web scraping](https://github.com/g6867803-collab/claude-mcp-web-scraping)
-- [Async bulk URL scraper](https://github.com/g6867803-collab/bulk-url-scraper-python)
-- [AI scraping without selectors](https://github.com/g6867803-collab/ai-web-scraping-examples)
-- [Full-page screenshot API](https://github.com/g6867803-collab/screenshot-api-example)
-- [SERP API in Python and curl](https://github.com/g6867803-collab/serp-api-examples)
+**E-commerce & pricing**
+
+- [Amazon, Walmart, eBay, Etsy & AliExpress to JSON](https://github.com/quantumproxies/ecommerce-scraping-examples)
+- [E-commerce price monitoring to JSON/CSV](https://github.com/quantumproxies/ecommerce-price-scraper)
+- [Google Shopping cross-retailer price sheets](https://github.com/quantumproxies/google-shopping-scraper)
+- [Flight & hotel fares with geo-true pricing](https://github.com/quantumproxies/travel-fare-scraping)
+- [Zillow & real-estate listings to JSON](https://github.com/quantumproxies/real-estate-scraper-python)
+
+**SEO & SERP tools**
+
+- [SERP API in Python and curl](https://github.com/quantumproxies/serp-api-examples)
+- [DIY Google rank tracker in Python](https://github.com/quantumproxies/serp-rank-tracker-python)
+- [Per-city local rank tracker (uule)](https://github.com/quantumproxies/local-serp-rank-tracker)
+- [Keyword research: autocomplete & AI Overviews](https://github.com/quantumproxies/seo-keyword-research-scripts)
+- [Competitor share-of-voice & keyword gaps](https://github.com/quantumproxies/competitor-serp-analysis)
+- [Google vs Bing vs DuckDuckGo vs Yandex](https://github.com/quantumproxies/multi-engine-serp-comparison)
+- [Google Maps: local pack, places & reviews](https://github.com/quantumproxies/google-maps-scraper-python)
+
+**Data for AI & LLMs**
+
+- [Web pages to RAG-ready markdown for LLMs](https://github.com/quantumproxies/website-to-markdown-for-llms)
+- [Fine-tuning & RAG corpora from the web](https://github.com/quantumproxies/llm-dataset-collection)
+- [Claude + MCP live web scraping](https://github.com/quantumproxies/claude-mcp-web-scraping)
+- [AI scraping without selectors](https://github.com/quantumproxies/ai-web-scraping-examples)
+
+**Monitoring & alerts**
+
+- [Website change monitoring with diff alerts](https://github.com/quantumproxies/website-change-monitoring)
+- [Stock & restock availability alerts](https://github.com/quantumproxies/stock-availability-monitor)
+- [Google News brand & media monitoring](https://github.com/quantumproxies/google-news-scraper)
+
+**Social, jobs & reviews**
+
+- [Public social data: Reddit, YouTube, X, TikTok](https://github.com/quantumproxies/social-media-scraping-python)
+- [Job postings: Indeed, Glassdoor & boards](https://github.com/quantumproxies/job-postings-scraper)
+- [Reviews: Google Maps, Trustpilot, Tripadvisor, Yelp](https://github.com/quantumproxies/reviews-scraping-examples)
+
+**Fundamentals & utilities**
+
+- [Scraping best practices: legal, polite, cheap](https://github.com/quantumproxies/web-scraping-best-practices)
+- [Error handling: 403, 407, 429 & Cloudflare 1020](https://github.com/quantumproxies/web-scraping-error-handling)
+- [Geo-targeted scraping from 195+ countries](https://github.com/quantumproxies/geo-targeted-scraping-examples)
+- [Proxy testing: IP, geo, rotation, IPv6](https://github.com/quantumproxies/proxy-testing-scripts)
+- [Async bulk URL scraper](https://github.com/quantumproxies/bulk-url-scraper-python)
+- [Full-page screenshot API](https://github.com/quantumproxies/screenshot-api-example)
 
 ## Integrations
 
-- [Python](https://github.com/g6867803-collab/rotating-residential-proxies-python)
-- [Node.js](https://github.com/g6867803-collab/nodejs-proxy-examples)
-- [Scrapy](https://github.com/g6867803-collab/scrapy-proxy-middleware)
-- [Puppeteer](https://github.com/g6867803-collab/puppeteer-proxy-example)
-- [Playwright](https://github.com/g6867803-collab/playwright-proxy-example)
-- [Selenium](https://github.com/g6867803-collab/selenium-proxy-authentication)
-- [cURL](https://github.com/g6867803-collab/curl-proxy-cheatsheet)
-- [Go](https://github.com/g6867803-collab/go-http-proxy-client)
-- [PHP / Guzzle](https://github.com/g6867803-collab/php-guzzle-proxy-example)
-- [SOCKS5 in Python](https://github.com/g6867803-collab/socks5-proxy-python)
-- [Scraper API in Python](https://github.com/g6867803-collab/web-scraping-api-python)
-- [Scraper API in Node.js](https://github.com/g6867803-collab/nodejs-web-scraping-api)
+- [Python](https://github.com/quantumproxies/rotating-residential-proxies-python)
+- [Node.js](https://github.com/quantumproxies/nodejs-proxy-examples)
+- [Scrapy](https://github.com/quantumproxies/scrapy-proxy-middleware)
+- [Puppeteer](https://github.com/quantumproxies/puppeteer-proxy-example)
+- [Playwright](https://github.com/quantumproxies/playwright-proxy-example)
+- [Selenium](https://github.com/quantumproxies/selenium-proxy-authentication)
+- [cURL](https://github.com/quantumproxies/curl-proxy-cheatsheet)
+- [Go](https://github.com/quantumproxies/go-http-proxy-client)
+- [PHP / Guzzle](https://github.com/quantumproxies/php-guzzle-proxy-example)
+- [SOCKS5 in Python](https://github.com/quantumproxies/socks5-proxy-python)
+- [Scraper API in Python](https://github.com/quantumproxies/web-scraping-api-python)
+- [Scraper API in Node.js](https://github.com/quantumproxies/nodejs-web-scraping-api)
 - [Chrome extension](https://quantumproxies.io/chrome-extension?utm_source=github&utm_medium=referral&utm_campaign=brand_repo)
 - [Java](java/)
 - [C#](csharp/)
